@@ -1,0 +1,5 @@
+# The scraper is a local-only tool and contains your live HanziHero session
+# cookie (scraper/cookies.txt). It is never needed at runtime — keep it off Vercel.
+scraper/
+node_modules/
+dist/

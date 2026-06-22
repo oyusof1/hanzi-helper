@@ -1,0 +1,2226 @@
+{
+  "scrapedAt": "2026-06-22T23:24:31.314Z",
+  "srs": "learned",
+  "count": 317,
+  "characters": [
+    {
+      "hanzi": "过",
+      "pinyin": "guò",
+      "meaning": "to pass",
+      "stage": "Journeyman II",
+      "subjectId": 8124
+    },
+    {
+      "hanzi": "作",
+      "pinyin": "zuò",
+      "meaning": "to do",
+      "stage": "Journeyman II",
+      "subjectId": 6075
+    },
+    {
+      "hanzi": "么",
+      "pinyin": "me",
+      "meaning": "muh",
+      "stage": "Journeyman II",
+      "subjectId": 8179
+    },
+    {
+      "hanzi": "看",
+      "pinyin": "kàn",
+      "meaning": "to look at",
+      "stage": "Journeyman II",
+      "subjectId": 5804
+    },
+    {
+      "hanzi": "分",
+      "pinyin": "fēn",
+      "meaning": "part",
+      "stage": "Journeyman II",
+      "subjectId": 5884
+    },
+    {
+      "hanzi": "还",
+      "pinyin": "huán",
+      "meaning": "to return",
+      "stage": "Expert I",
+      "subjectId": 8131
+    },
+    {
+      "hanzi": "进",
+      "pinyin": "jìn",
+      "meaning": "to advance",
+      "stage": "Journeyman II",
+      "subjectId": 8133
+    },
+    {
+      "hanzi": "好",
+      "pinyin": "hǎo",
+      "meaning": "good",
+      "stage": "Journeyman II",
+      "subjectId": 5418
+    },
+    {
+      "hanzi": "她",
+      "pinyin": "tā",
+      "meaning": "she",
+      "stage": "Expert I",
+      "subjectId": 5751
+    },
+    {
+      "hanzi": "本",
+      "pinyin": "běn",
+      "meaning": "notebook",
+      "stage": "Expert I",
+      "subjectId": 5508
+    },
+    {
+      "hanzi": "开",
+      "pinyin": "kāi",
+      "meaning": "to open",
+      "stage": "Journeyman II",
+      "subjectId": 8126
+    },
+    {
+      "hanzi": "从",
+      "pinyin": "cóng",
+      "meaning": "to follow",
+      "stage": "Journeyman II",
+      "subjectId": 8130
+    },
+    {
+      "hanzi": "机",
+      "pinyin": "jī",
+      "meaning": "machine",
+      "stage": "Journeyman II",
+      "subjectId": 8122
+    },
+    {
+      "hanzi": "明",
+      "pinyin": "míng",
+      "meaning": "bright",
+      "stage": "Journeyman II",
+      "subjectId": 5347
+    },
+    {
+      "hanzi": "三",
+      "pinyin": "sān",
+      "meaning": "three",
+      "stage": "Journeyman II",
+      "subjectId": 5330
+    },
+    {
+      "hanzi": "间",
+      "pinyin": "jiān",
+      "meaning": "interval",
+      "stage": "Journeyman II",
+      "subjectId": 6317
+    },
+    {
+      "hanzi": "问",
+      "pinyin": "wèn",
+      "meaning": "to ask",
+      "stage": "Journeyman II",
+      "subjectId": 6316
+    },
+    {
+      "hanzi": "什",
+      "pinyin": "shén",
+      "meaning": "what",
+      "stage": "Journeyman II",
+      "subjectId": 5965
+    },
+    {
+      "hanzi": "果",
+      "pinyin": "guǒ",
+      "meaning": "fruit",
+      "stage": "Journeyman II",
+      "subjectId": 6059
+    },
+    {
+      "hanzi": "回",
+      "pinyin": "huí",
+      "meaning": "to return",
+      "stage": "Journeyman II",
+      "subjectId": 5784
+    },
+    {
+      "hanzi": "比",
+      "pinyin": "bǐ",
+      "meaning": "to compare",
+      "stage": "Journeyman II",
+      "subjectId": 5706
+    },
+    {
+      "hanzi": "水",
+      "pinyin": "shuǐ",
+      "meaning": "water",
+      "stage": "Journeyman II",
+      "subjectId": 5446
+    },
+    {
+      "hanzi": "认",
+      "pinyin": "rèn",
+      "meaning": "to recognize",
+      "stage": "Journeyman II",
+      "subjectId": 8572
+    },
+    {
+      "hanzi": "条",
+      "pinyin": "tiáo",
+      "meaning": "strip",
+      "stage": "Journeyman II",
+      "subjectId": 8177
+    },
+    {
+      "hanzi": "打",
+      "pinyin": "dǎ",
+      "meaning": "to strike",
+      "stage": "Journeyman II",
+      "subjectId": 5812
+    },
+    {
+      "hanzi": "四",
+      "pinyin": "sì",
+      "meaning": "four",
+      "stage": "Journeyman II",
+      "subjectId": 5331
+    },
+    {
+      "hanzi": "电",
+      "pinyin": "diàn",
+      "meaning": "electricity",
+      "stage": "Journeyman II",
+      "subjectId": 8135
+    },
+    {
+      "hanzi": "太",
+      "pinyin": "tài",
+      "meaning": "excessively",
+      "stage": "Journeyman II",
+      "subjectId": 5440
+    },
+    {
+      "hanzi": "再",
+      "pinyin": "zài",
+      "meaning": "again",
+      "stage": "Journeyman II",
+      "subjectId": 6393
+    },
+    {
+      "hanzi": "听",
+      "pinyin": "tīng",
+      "meaning": "to listen",
+      "stage": "Expert I",
+      "subjectId": 8181
+    },
+    {
+      "hanzi": "难",
+      "pinyin": "nán",
+      "meaning": "difficult",
+      "stage": "Journeyman II",
+      "subjectId": 8178
+    },
+    {
+      "hanzi": "记",
+      "pinyin": "jì",
+      "meaning": "to remember",
+      "stage": "Journeyman II",
+      "subjectId": 5759
+    },
+    {
+      "hanzi": "北",
+      "pinyin": "běi",
+      "meaning": "north",
+      "stage": "Journeyman II",
+      "subjectId": 5704
+    },
+    {
+      "hanzi": "边",
+      "pinyin": "biān",
+      "meaning": "border",
+      "stage": "Journeyman II",
+      "subjectId": 8129
+    },
+    {
+      "hanzi": "准",
+      "pinyin": "zhǔn",
+      "meaning": "standard",
+      "stage": "Journeyman II",
+      "subjectId": 5773
+    },
+    {
+      "hanzi": "怎",
+      "pinyin": "zěn",
+      "meaning": "how",
+      "stage": "Journeyman II",
+      "subjectId": 6073
+    },
+    {
+      "hanzi": "叫",
+      "pinyin": "jiào",
+      "meaning": "to call",
+      "stage": "Journeyman II",
+      "subjectId": 6260
+    },
+    {
+      "hanzi": "备",
+      "pinyin": "bèi",
+      "meaning": "to prepare",
+      "stage": "Journeyman II",
+      "subjectId": 8125
+    },
+    {
+      "hanzi": "写",
+      "pinyin": "xiě",
+      "meaning": "to write",
+      "stage": "Journeyman II",
+      "subjectId": 8211
+    },
+    {
+      "hanzi": "吗",
+      "pinyin": "ma",
+      "meaning": "question",
+      "stage": "Journeyman II",
+      "subjectId": 6463
+    },
+    {
+      "hanzi": "吧",
+      "pinyin": "bā",
+      "meaning": "bar",
+      "stage": "Journeyman II",
+      "subjectId": 6367
+    },
+    {
+      "hanzi": "六",
+      "pinyin": "liù",
+      "meaning": "six",
+      "stage": "Journeyman II",
+      "subjectId": 5333
+    },
+    {
+      "hanzi": "号",
+      "pinyin": "hào",
+      "meaning": "number",
+      "stage": "Journeyman II",
+      "subjectId": 8132
+    },
+    {
+      "hanzi": "兴",
+      "pinyin": "xìng",
+      "meaning": "excitement",
+      "stage": "Journeyman I",
+      "subjectId": 8213
+    },
+    {
+      "hanzi": "孩",
+      "pinyin": "hái",
+      "meaning": "child",
+      "stage": "Journeyman I",
+      "subjectId": 6264
+    },
+    {
+      "hanzi": "友",
+      "pinyin": "yǒu",
+      "meaning": "friend",
+      "stage": "Journeyman II",
+      "subjectId": 5845
+    },
+    {
+      "hanzi": "男",
+      "pinyin": "nán",
+      "meaning": "male",
+      "stage": "Journeyman I",
+      "subjectId": 5921
+    },
+    {
+      "hanzi": "网",
+      "pinyin": "wǎng",
+      "meaning": "net",
+      "stage": "Journeyman II",
+      "subjectId": 8182
+    },
+    {
+      "hanzi": "谁",
+      "pinyin": "shéi",
+      "meaning": "who",
+      "stage": "Journeyman II",
+      "subjectId": 5774
+    },
+    {
+      "hanzi": "汉",
+      "pinyin": "hàn",
+      "meaning": "Han",
+      "stage": "Journeyman II",
+      "subjectId": 8127
+    },
+    {
+      "hanzi": "衣",
+      "pinyin": "yī",
+      "meaning": "clothing",
+      "stage": "Journeyman II",
+      "subjectId": 5663
+    },
+    {
+      "hanzi": "妈",
+      "pinyin": "mā",
+      "meaning": "mama",
+      "stage": "Journeyman II",
+      "subjectId": 6462
+    },
+    {
+      "hanzi": "右",
+      "pinyin": "yòu",
+      "meaning": "right",
+      "stage": "Journeyman II",
+      "subjectId": 5395
+    },
+    {
+      "hanzi": "爷",
+      "pinyin": "yé",
+      "meaning": "grandfather",
+      "stage": "Journeyman II",
+      "subjectId": 8214
+    },
+    {
+      "hanzi": "爸",
+      "pinyin": "bà",
+      "meaning": "papa",
+      "stage": "Journeyman II",
+      "subjectId": 6366
+    },
+    {
+      "hanzi": "休",
+      "pinyin": "xiū",
+      "meaning": "to rest",
+      "stage": "Journeyman II",
+      "subjectId": 5974
+    },
+    {
+      "hanzi": "唱",
+      "pinyin": "chàng",
+      "meaning": "to sing",
+      "stage": "Journeyman II",
+      "subjectId": 5348
+    },
+    {
+      "hanzi": "奶",
+      "pinyin": "nǎi",
+      "meaning": "milk",
+      "stage": "Journeyman II",
+      "subjectId": 5838
+    },
+    {
+      "hanzi": "鸡",
+      "pinyin": "jī",
+      "meaning": "chicken",
+      "stage": "Journeyman II",
+      "subjectId": 8134
+    },
+    {
+      "hanzi": "杯",
+      "pinyin": "bēi",
+      "meaning": "cup",
+      "stage": "Journeyman II",
+      "subjectId": 6118
+    },
+    {
+      "hanzi": "昨",
+      "pinyin": "zuó",
+      "meaning": "yesterday",
+      "stage": "Journeyman II",
+      "subjectId": 6074
+    },
+    {
+      "hanzi": "有",
+      "pinyin": "yǒu",
+      "meaning": "to possess",
+      "stage": "Journeyman II",
+      "subjectId": 5396
+    },
+    {
+      "hanzi": "中",
+      "pinyin": "zhōng",
+      "meaning": "middle",
+      "stage": "Journeyman II",
+      "subjectId": 5358
+    },
+    {
+      "hanzi": "上",
+      "pinyin": "shàng",
+      "meaning": "above",
+      "stage": "Journeyman II",
+      "subjectId": 5365
+    },
+    {
+      "hanzi": "生",
+      "pinyin": "shēng",
+      "meaning": "life",
+      "stage": "Journeyman II",
+      "subjectId": 6282
+    },
+    {
+      "hanzi": "那",
+      "pinyin": "nà",
+      "meaning": "that",
+      "stage": "Journeyman II",
+      "subjectId": 6479
+    },
+    {
+      "hanzi": "着",
+      "pinyin": "zhe",
+      "meaning": "to continue",
+      "stage": "Journeyman I",
+      "subjectId": 8244
+    },
+    {
+      "hanzi": "下",
+      "pinyin": "xià",
+      "meaning": "below",
+      "stage": "Journeyman II",
+      "subjectId": 5366
+    },
+    {
+      "hanzi": "后",
+      "pinyin": "hòu",
+      "meaning": "behind",
+      "stage": "Journeyman II",
+      "subjectId": 8228
+    },
+    {
+      "hanzi": "事",
+      "pinyin": "shì",
+      "meaning": "matter",
+      "stage": "Journeyman II",
+      "subjectId": 6079
+    },
+    {
+      "hanzi": "方",
+      "pinyin": "fāng",
+      "meaning": "direction",
+      "stage": "Journeyman II",
+      "subjectId": 5739
+    },
+    {
+      "hanzi": "多",
+      "pinyin": "duō",
+      "meaning": "many",
+      "stage": "Journeyman II",
+      "subjectId": 5430
+    },
+    {
+      "hanzi": "天",
+      "pinyin": "tiān",
+      "meaning": "heaven",
+      "stage": "Journeyman II",
+      "subjectId": 5686
+    },
+    {
+      "hanzi": "小",
+      "pinyin": "xiǎo",
+      "meaning": "small",
+      "stage": "Journeyman I",
+      "subjectId": 5424
+    },
+    {
+      "hanzi": "样",
+      "pinyin": "yàng",
+      "meaning": "appearance",
+      "stage": "Apprentice II",
+      "subjectId": 8667
+    },
+    {
+      "hanzi": "想",
+      "pinyin": "xiǎng",
+      "meaning": "to think",
+      "stage": "Journeyman II",
+      "subjectId": 5796
+    },
+    {
+      "hanzi": "正",
+      "pinyin": "zhèng",
+      "meaning": "correct",
+      "stage": "Journeyman II",
+      "subjectId": 5650
+    },
+    {
+      "hanzi": "外",
+      "pinyin": "wài",
+      "meaning": "outside",
+      "stage": "Journeyman II",
+      "subjectId": 5432
+    },
+    {
+      "hanzi": "很",
+      "pinyin": "hěn",
+      "meaning": "very",
+      "stage": "Journeyman II",
+      "subjectId": 6228
+    },
+    {
+      "hanzi": "最",
+      "pinyin": "zuì",
+      "meaning": "most",
+      "stage": "Journeyman II",
+      "subjectId": 5908
+    },
+    {
+      "hanzi": "体",
+      "pinyin": "tǐ",
+      "meaning": "body",
+      "stage": "Journeyman II",
+      "subjectId": 8251
+    },
+    {
+      "hanzi": "见",
+      "pinyin": "jiàn",
+      "meaning": "to see",
+      "stage": "Journeyman I",
+      "subjectId": 5376
+    },
+    {
+      "hanzi": "名",
+      "pinyin": "míng",
+      "meaning": "name",
+      "stage": "Apprentice II",
+      "subjectId": 5433
+    },
+    {
+      "hanzi": "别",
+      "pinyin": "bié",
+      "meaning": "don&#39;t",
+      "stage": "Journeyman II",
+      "subjectId": 5920
+    },
+    {
+      "hanzi": "白",
+      "pinyin": "bái",
+      "meaning": "white",
+      "stage": "Journeyman II",
+      "subjectId": 5355
+    },
+    {
+      "hanzi": "识",
+      "pinyin": "shí",
+      "meaning": "knowledge",
+      "stage": "Journeyman II",
+      "subjectId": 8243
+    },
+    {
+      "hanzi": "风",
+      "pinyin": "fēng",
+      "meaning": "wind",
+      "stage": "Journeyman II",
+      "subjectId": 6249
+    },
+    {
+      "hanzi": "服",
+      "pinyin": "fú",
+      "meaning": "apparel",
+      "stage": "Journeyman I",
+      "subjectId": 6194
+    },
+    {
+      "hanzi": "元",
+      "pinyin": "yuán",
+      "meaning": "dollar",
+      "stage": "Journeyman I",
+      "subjectId": 5377
+    },
+    {
+      "hanzi": "呢",
+      "pinyin": "ne",
+      "meaning": "how about",
+      "stage": "Journeyman II",
+      "subjectId": 6029
+    },
+    {
+      "hanzi": "花",
+      "pinyin": "huā",
+      "meaning": "flowers",
+      "stage": "Journeyman II",
+      "subjectId": 5990
+    },
+    {
+      "hanzi": "请",
+      "pinyin": "qǐng",
+      "meaning": "to invite",
+      "stage": "Journeyman II",
+      "subjectId": 6276
+    },
+    {
+      "hanzi": "早",
+      "pinyin": "zǎo",
+      "meaning": "early",
+      "stage": "Journeyman I",
+      "subjectId": 5351
+    },
+    {
+      "hanzi": "找",
+      "pinyin": "zhǎo",
+      "meaning": "to look for",
+      "stage": "Journeyman I",
+      "subjectId": 5825
+    },
+    {
+      "hanzi": "吃",
+      "pinyin": "chī",
+      "meaning": "to eat",
+      "stage": "Journeyman I",
+      "subjectId": 5719
+    },
+    {
+      "hanzi": "图",
+      "pinyin": "tú",
+      "meaning": "picture",
+      "stage": "Journeyman II",
+      "subjectId": 8245
+    },
+    {
+      "hanzi": "语",
+      "pinyin": "yǔ",
+      "meaning": "language",
+      "stage": "Journeyman II",
+      "subjectId": 5624
+    },
+    {
+      "hanzi": "诉",
+      "pinyin": "sù",
+      "meaning": "to accuse",
+      "stage": "Journeyman II",
+      "subjectId": 6071
+    },
+    {
+      "hanzi": "试",
+      "pinyin": "shì",
+      "meaning": "test",
+      "stage": "Journeyman II",
+      "subjectId": 5628
+    },
+    {
+      "hanzi": "树",
+      "pinyin": "shù",
+      "meaning": "tree",
+      "stage": "Journeyman II",
+      "subjectId": 8246
+    },
+    {
+      "hanzi": "差",
+      "pinyin": "chà",
+      "meaning": "to differ",
+      "stage": "Journeyman II",
+      "subjectId": 5771
+    },
+    {
+      "hanzi": "岁",
+      "pinyin": "suì",
+      "meaning": "years of age",
+      "stage": "Journeyman II",
+      "subjectId": 8248
+    },
+    {
+      "hanzi": "左",
+      "pinyin": "zuǒ",
+      "meaning": "left",
+      "stage": "Journeyman II",
+      "subjectId": 5394
+    },
+    {
+      "hanzi": "楼",
+      "pinyin": "lóu",
+      "meaning": "multistory building",
+      "stage": "Journeyman I",
+      "subjectId": 8250
+    },
+    {
+      "hanzi": "班",
+      "pinyin": "bān",
+      "meaning": "class",
+      "stage": "Apprentice II",
+      "subjectId": 6130
+    },
+    {
+      "hanzi": "肉",
+      "pinyin": "ròu",
+      "meaning": "meat",
+      "stage": "Journeyman I",
+      "subjectId": 5999
+    },
+    {
+      "hanzi": "忘",
+      "pinyin": "wàng",
+      "meaning": "to forget",
+      "stage": "Journeyman II",
+      "subjectId": 5791
+    },
+    {
+      "hanzi": "床",
+      "pinyin": "chuáng",
+      "meaning": "bed",
+      "stage": "Journeyman II",
+      "subjectId": 5788
+    },
+    {
+      "hanzi": "妹",
+      "pinyin": "mèi",
+      "meaning": "younger sister",
+      "stage": "Journeyman II",
+      "subjectId": 5514
+    },
+    {
+      "hanzi": "桌",
+      "pinyin": "zhuō",
+      "meaning": "table",
+      "stage": "Apprentice II",
+      "subjectId": 5519
+    },
+    {
+      "hanzi": "课",
+      "pinyin": "kè",
+      "meaning": "lesson",
+      "stage": "Journeyman I",
+      "subjectId": 6060
+    },
+    {
+      "hanzi": "菜",
+      "pinyin": "cài",
+      "meaning": "vegetable",
+      "stage": "Journeyman II",
+      "subjectId": 5863
+    },
+    {
+      "hanzi": "茶",
+      "pinyin": "chá",
+      "meaning": "tea",
+      "stage": "Journeyman II",
+      "subjectId": 5550
+    },
+    {
+      "hanzi": "净",
+      "pinyin": "jìng",
+      "meaning": "clean",
+      "stage": "Journeyman I",
+      "subjectId": 8229
+    },
+    {
+      "hanzi": "是",
+      "pinyin": "shì",
+      "meaning": "to be",
+      "stage": "Journeyman II",
+      "subjectId": 5657
+    },
+    {
+      "hanzi": "在",
+      "pinyin": "zài",
+      "meaning": "at",
+      "stage": "Journeyman II",
+      "subjectId": 5836
+    },
+    {
+      "hanzi": "我",
+      "pinyin": "wǒ",
+      "meaning": "I",
+      "stage": "Journeyman II",
+      "subjectId": 5807
+    },
+    {
+      "hanzi": "国",
+      "pinyin": "guó",
+      "meaning": "country",
+      "stage": "Journeyman II",
+      "subjectId": 8309
+    },
+    {
+      "hanzi": "地",
+      "pinyin": "dì",
+      "meaning": "ground",
+      "stage": "Journeyman II",
+      "subjectId": 5752
+    },
+    {
+      "hanzi": "会",
+      "pinyin": "huì",
+      "meaning": "meeting",
+      "stage": "Journeyman II",
+      "subjectId": 8312
+    },
+    {
+      "hanzi": "能",
+      "pinyin": "néng",
+      "meaning": "ability",
+      "stage": "Journeyman II",
+      "subjectId": 6469
+    },
+    {
+      "hanzi": "家",
+      "pinyin": "jiā",
+      "meaning": "house",
+      "stage": "Journeyman II",
+      "subjectId": 5764
+    },
+    {
+      "hanzi": "去",
+      "pinyin": "qù",
+      "meaning": "to go",
+      "stage": "Journeyman II",
+      "subjectId": 5870
+    },
+    {
+      "hanzi": "学",
+      "pinyin": "xué",
+      "meaning": "to study",
+      "stage": "Journeyman II",
+      "subjectId": 5610
+    },
+    {
+      "hanzi": "同",
+      "pinyin": "tóng",
+      "meaning": "same",
+      "stage": "Journeyman II",
+      "subjectId": 5486
+    },
+    {
+      "hanzi": "现",
+      "pinyin": "xiàn",
+      "meaning": "present",
+      "stage": "Journeyman I",
+      "subjectId": 5557
+    },
+    {
+      "hanzi": "没",
+      "pinyin": "méi",
+      "meaning": "to not have",
+      "stage": "Journeyman II",
+      "subjectId": 5848
+    },
+    {
+      "hanzi": "动",
+      "pinyin": "dòng",
+      "meaning": "to move",
+      "stage": "Journeyman I",
+      "subjectId": 8249
+    },
+    {
+      "hanzi": "面",
+      "pinyin": "miàn",
+      "meaning": "face",
+      "stage": "Journeyman II",
+      "subjectId": 6425
+    },
+    {
+      "hanzi": "些",
+      "pinyin": "xiē",
+      "meaning": "some",
+      "stage": "Journeyman I",
+      "subjectId": 5711
+    },
+    {
+      "hanzi": "关",
+      "pinyin": "guān",
+      "meaning": "to shut",
+      "stage": "Journeyman I",
+      "subjectId": 8252
+    },
+    {
+      "hanzi": "点",
+      "pinyin": "diǎn",
+      "meaning": "spot",
+      "stage": "Journeyman II",
+      "subjectId": 8242
+    },
+    {
+      "hanzi": "新",
+      "pinyin": "xīn",
+      "meaning": "new",
+      "stage": "Journeyman I",
+      "subjectId": 6257
+    },
+    {
+      "hanzi": "身",
+      "pinyin": "shēn",
+      "meaning": "body",
+      "stage": "Journeyman I",
+      "subjectId": 6141
+    },
+    {
+      "hanzi": "次",
+      "pinyin": "cì",
+      "meaning": "occurrence",
+      "stage": "Journeyman II",
+      "subjectId": 5725
+    },
+    {
+      "hanzi": "东",
+      "pinyin": "dōng",
+      "meaning": "east",
+      "stage": "Journeyman II",
+      "subjectId": 6304
+    },
+    {
+      "hanzi": "气",
+      "pinyin": "qì",
+      "meaning": "air",
+      "stage": "Journeyman II",
+      "subjectId": 8318
+    },
+    {
+      "hanzi": "放",
+      "pinyin": "fàng",
+      "meaning": "to release",
+      "stage": "Journeyman II",
+      "subjectId": 5741
+    },
+    {
+      "hanzi": "住",
+      "pinyin": "zhù",
+      "meaning": "to dwell",
+      "stage": "Journeyman II",
+      "subjectId": 5969
+    },
+    {
+      "hanzi": "今",
+      "pinyin": "jīn",
+      "meaning": "now",
+      "stage": "Journeyman II",
+      "subjectId": 6301
+    },
+    {
+      "hanzi": "笑",
+      "pinyin": "xiào",
+      "meaning": "to laugh",
+      "stage": "Journeyman II",
+      "subjectId": 5954
+    },
+    {
+      "hanzi": "远",
+      "pinyin": "yuǎn",
+      "meaning": "distant",
+      "stage": "Journeyman I",
+      "subjectId": 8664
+    },
+    {
+      "hanzi": "字",
+      "pinyin": "zì",
+      "meaning": "character",
+      "stage": "Journeyman I",
+      "subjectId": 5490
+    },
+    {
+      "hanzi": "爱",
+      "pinyin": "ài",
+      "meaning": "love",
+      "stage": "Journeyman II",
+      "subjectId": 8247
+    },
+    {
+      "hanzi": "息",
+      "pinyin": "xī",
+      "meaning": "breath",
+      "stage": "Journeyman II",
+      "subjectId": 8310
+    },
+    {
+      "hanzi": "视",
+      "pinyin": "shì",
+      "meaning": "to look at",
+      "stage": "Journeyman II",
+      "subjectId": 6042
+    },
+    {
+      "hanzi": "包",
+      "pinyin": "bāo",
+      "meaning": "package",
+      "stage": "Journeyman II",
+      "subjectId": 5761
+    },
+    {
+      "hanzi": "半",
+      "pinyin": "bàn",
+      "meaning": "half",
+      "stage": "Journeyman II",
+      "subjectId": 6105
+    },
+    {
+      "hanzi": "星",
+      "pinyin": "xīng",
+      "meaning": "star",
+      "stage": "Apprentice II",
+      "subjectId": 6283
+    },
+    {
+      "hanzi": "校",
+      "pinyin": "xiào",
+      "meaning": "school",
+      "stage": "Journeyman I",
+      "subjectId": 6158
+    },
+    {
+      "hanzi": "晚",
+      "pinyin": "wǎn",
+      "meaning": "late",
+      "stage": "Journeyman II",
+      "subjectId": 6458
+    },
+    {
+      "hanzi": "哪",
+      "pinyin": "nǎ",
+      "meaning": "which",
+      "stage": "Apprentice I",
+      "subjectId": 6480
+    },
+    {
+      "hanzi": "喜",
+      "pinyin": "xǐ",
+      "meaning": "joy",
+      "stage": "Journeyman I",
+      "subjectId": 6223
+    },
+    {
+      "hanzi": "欢",
+      "pinyin": "huān",
+      "meaning": "joyous",
+      "stage": "Journeyman II",
+      "subjectId": 8311
+    },
+    {
+      "hanzi": "买",
+      "pinyin": "mǎi",
+      "meaning": "to buy",
+      "stage": "Apprentice II",
+      "subjectId": 8313
+    },
+    {
+      "hanzi": "哥",
+      "pinyin": "gē",
+      "meaning": "older brother",
+      "stage": "Journeyman II",
+      "subjectId": 5410
+    },
+    {
+      "hanzi": "姐",
+      "pinyin": "jiě",
+      "meaning": "older sister",
+      "stage": "Journeyman II",
+      "subjectId": 6378
+    },
+    {
+      "hanzi": "介",
+      "pinyin": "jiè",
+      "meaning": "to introduce",
+      "stage": "Journeyman II",
+      "subjectId": 5548
+    },
+    {
+      "hanzi": "坏",
+      "pinyin": "huài",
+      "meaning": "bad",
+      "stage": "Journeyman II",
+      "subjectId": 8314
+    },
+    {
+      "hanzi": "牛",
+      "pinyin": "niú",
+      "meaning": "cow",
+      "stage": "Journeyman I",
+      "subjectId": 5542
+    },
+    {
+      "hanzi": "玩",
+      "pinyin": "wán",
+      "meaning": "to play",
+      "stage": "Journeyman I",
+      "subjectId": 5558
+    },
+    {
+      "hanzi": "蛋",
+      "pinyin": "dàn",
+      "meaning": "egg",
+      "stage": "Journeyman I",
+      "subjectId": 5756
+    },
+    {
+      "hanzi": "的",
+      "pinyin": "de",
+      "meaning": "possess",
+      "stage": "Journeyman II",
+      "subjectId": 5387
+    },
+    {
+      "hanzi": "你",
+      "pinyin": "nǐ",
+      "meaning": "you",
+      "stage": "Journeyman II",
+      "subjectId": 5963
+    },
+    {
+      "hanzi": "得",
+      "pinyin": "dé",
+      "meaning": "to obtain",
+      "stage": "Journeyman I",
+      "subjectId": 5931
+    },
+    {
+      "hanzi": "里",
+      "pinyin": "lǐ",
+      "meaning": "inside",
+      "stage": "Journeyman II",
+      "subjectId": 5480
+    },
+    {
+      "hanzi": "两",
+      "pinyin": "liǎng",
+      "meaning": "two",
+      "stage": "Journeyman II",
+      "subjectId": 6481
+    },
+    {
+      "hanzi": "高",
+      "pinyin": "gāo",
+      "meaning": "tall",
+      "stage": "Journeyman II",
+      "subjectId": 5600
+    },
+    {
+      "hanzi": "走",
+      "pinyin": "zǒu",
+      "meaning": "walk",
+      "stage": "Journeyman I",
+      "subjectId": 5654
+    },
+    {
+      "hanzi": "少",
+      "pinyin": "shǎo",
+      "meaning": "few",
+      "stage": "Journeyman I",
+      "subjectId": 5425
+    },
+    {
+      "hanzi": "做",
+      "pinyin": "zuò",
+      "meaning": "to make",
+      "stage": "Journeyman I",
+      "subjectId": 5967
+    },
+    {
+      "hanzi": "场",
+      "pinyin": "chǎng",
+      "meaning": "site",
+      "stage": "Journeyman II",
+      "subjectId": 5765
+    },
+    {
+      "hanzi": "期",
+      "pinyin": "qī",
+      "meaning": "period of time",
+      "stage": "Journeyman I",
+      "subjectId": 8316
+    },
+    {
+      "hanzi": "路",
+      "pinyin": "lù",
+      "meaning": "road",
+      "stage": "Journeyman I",
+      "subjectId": 6162
+    },
+    {
+      "hanzi": "师",
+      "pinyin": "shī",
+      "meaning": "teacher",
+      "stage": "Journeyman I",
+      "subjectId": 8368
+    },
+    {
+      "hanzi": "商",
+      "pinyin": "shāng",
+      "meaning": "salesman",
+      "stage": "Journeyman I",
+      "subjectId": 5701
+    },
+    {
+      "hanzi": "百",
+      "pinyin": "bǎi",
+      "meaning": "hundred",
+      "stage": "Journeyman I",
+      "subjectId": 5356
+    },
+    {
+      "hanzi": "跟",
+      "pinyin": "gēn",
+      "meaning": "heel",
+      "stage": "Journeyman II",
+      "subjectId": 6227
+    },
+    {
+      "hanzi": "站",
+      "pinyin": "zhàn",
+      "meaning": "station",
+      "stage": "Journeyman I",
+      "subjectId": 5696
+    },
+    {
+      "hanzi": "热",
+      "pinyin": "rè",
+      "meaning": "hot",
+      "stage": "Journeyman II",
+      "subjectId": 8370
+    },
+    {
+      "hanzi": "坐",
+      "pinyin": "zuò",
+      "meaning": "to sit",
+      "stage": "Journeyman I",
+      "subjectId": 6001
+    },
+    {
+      "hanzi": "脑",
+      "pinyin": "nǎo",
+      "meaning": "brain",
+      "stage": "Journeyman I",
+      "subjectId": 8315
+    },
+    {
+      "hanzi": "送",
+      "pinyin": "sòng",
+      "meaning": "to deliver",
+      "stage": "Journeyman I",
+      "subjectId": 6474
+    },
+    {
+      "hanzi": "冷",
+      "pinyin": "lěng",
+      "meaning": "cold",
+      "stage": "Journeyman II",
+      "subjectId": 6202
+    },
+    {
+      "hanzi": "帮",
+      "pinyin": "bāng",
+      "meaning": "to help",
+      "stage": "Novice II",
+      "subjectId": 8317
+    },
+    {
+      "hanzi": "弟",
+      "pinyin": "dì",
+      "meaning": "younger brother",
+      "stage": "Journeyman II",
+      "subjectId": 6138
+    },
+    {
+      "hanzi": "忙",
+      "pinyin": "máng",
+      "meaning": "busy",
+      "stage": "Journeyman I",
+      "subjectId": 5800
+    },
+    {
+      "hanzi": "饭",
+      "pinyin": "fàn",
+      "meaning": "meal",
+      "stage": "Journeyman II",
+      "subjectId": 6238
+    },
+    {
+      "hanzi": "喝",
+      "pinyin": "hē",
+      "meaning": "to drink",
+      "stage": "Journeyman I",
+      "subjectId": 6004
+    },
+    {
+      "hanzi": "店",
+      "pinyin": "diàn",
+      "meaning": "store",
+      "stage": "Journeyman I",
+      "subjectId": 5785
+    },
+    {
+      "hanzi": "页",
+      "pinyin": "yè",
+      "meaning": "page",
+      "stage": "Journeyman I",
+      "subjectId": 5378
+    },
+    {
+      "hanzi": "汽",
+      "pinyin": "qì",
+      "meaning": "steam",
+      "stage": "Journeyman II",
+      "subjectId": 6424
+    },
+    {
+      "hanzi": "零",
+      "pinyin": "líng",
+      "meaning": "zero",
+      "stage": "Journeyman II",
+      "subjectId": 6203
+    },
+    {
+      "hanzi": "渴",
+      "pinyin": "kě",
+      "meaning": "thirsty",
+      "stage": "Journeyman II",
+      "subjectId": 6005
+    },
+    {
+      "hanzi": "到",
+      "pinyin": "dào",
+      "meaning": "to arrive",
+      "stage": "Journeyman I",
+      "subjectId": 5874
+    },
+    {
+      "hanzi": "说",
+      "pinyin": "shuō",
+      "meaning": "to speak",
+      "stage": "Journeyman I",
+      "subjectId": 5746
+    },
+    {
+      "hanzi": "年",
+      "pinyin": "nián",
+      "meaning": "year",
+      "stage": "Journeyman I",
+      "subjectId": 6018
+    },
+    {
+      "hanzi": "道",
+      "pinyin": "dào",
+      "meaning": "way",
+      "stage": "Journeyman I",
+      "subjectId": 5574
+    },
+    {
+      "hanzi": "起",
+      "pinyin": "qǐ",
+      "meaning": "to begin",
+      "stage": "Journeyman I",
+      "subjectId": 8369
+    },
+    {
+      "hanzi": "前",
+      "pinyin": "qián",
+      "meaning": "in front",
+      "stage": "Journeyman II",
+      "subjectId": 5583
+    },
+    {
+      "hanzi": "第",
+      "pinyin": "dì",
+      "meaning": "ordinal number",
+      "stage": "Journeyman I",
+      "subjectId": 6139
+    },
+    {
+      "hanzi": "知",
+      "pinyin": "zhī",
+      "meaning": "to know",
+      "stage": "Journeyman II",
+      "subjectId": 6121
+    },
+    {
+      "hanzi": "等",
+      "pinyin": "děng",
+      "meaning": "etc",
+      "stage": "Journeyman I",
+      "subjectId": 5956
+    },
+    {
+      "hanzi": "话",
+      "pinyin": "huà",
+      "meaning": "talk",
+      "stage": "Journeyman II",
+      "subjectId": 5622
+    },
+    {
+      "hanzi": "老",
+      "pinyin": "lǎo",
+      "meaning": "old age",
+      "stage": "Journeyman II",
+      "subjectId": 6144
+    },
+    {
+      "hanzi": "先",
+      "pinyin": "xiān",
+      "meaning": "before",
+      "stage": "Apprentice II",
+      "subjectId": 5546
+    },
+    {
+      "hanzi": "真",
+      "pinyin": "zhēn",
+      "meaning": "true",
+      "stage": "Journeyman II",
+      "subjectId": 5392
+    },
+    {
+      "hanzi": "告",
+      "pinyin": "gào",
+      "meaning": "to declare",
+      "stage": "Journeyman I",
+      "subjectId": 5544
+    },
+    {
+      "hanzi": "觉",
+      "pinyin": "jué",
+      "meaning": "senses",
+      "stage": "Journeyman I",
+      "subjectId": 5611
+    },
+    {
+      "hanzi": "快",
+      "pinyin": "kuài",
+      "meaning": "fast",
+      "stage": "Journeyman I",
+      "subjectId": 6326
+    },
+    {
+      "hanzi": "医",
+      "pinyin": "yī",
+      "meaning": "doctor",
+      "stage": "Apprentice I",
+      "subjectId": 8373
+    },
+    {
+      "hanzi": "考",
+      "pinyin": "kǎo",
+      "meaning": "exam",
+      "stage": "Journeyman I",
+      "subjectId": 6145
+    },
+    {
+      "hanzi": "房",
+      "pinyin": "fáng",
+      "meaning": "house",
+      "stage": "Journeyman II",
+      "subjectId": 6038
+    },
+    {
+      "hanzi": "答",
+      "pinyin": "dá",
+      "meaning": "to answer",
+      "stage": "Journeyman I",
+      "subjectId": 5958
+    },
+    {
+      "hanzi": "京",
+      "pinyin": "jīng",
+      "meaning": "capital",
+      "stage": "Journeyman I",
+      "subjectId": 5603
+    },
+    {
+      "hanzi": "球",
+      "pinyin": "qiú",
+      "meaning": "ball",
+      "stage": "Journeyman I",
+      "subjectId": 5556
+    },
+    {
+      "hanzi": "假",
+      "pinyin": "jià",
+      "meaning": "vacation",
+      "stage": "Journeyman I",
+      "subjectId": 6422
+    },
+    {
+      "hanzi": "拿",
+      "pinyin": "ná",
+      "meaning": "to hold",
+      "stage": "Journeyman II",
+      "subjectId": 5806
+    },
+    {
+      "hanzi": "您",
+      "pinyin": "nín",
+      "meaning": "thou",
+      "stage": "Journeyman I",
+      "subjectId": 5964
+    },
+    {
+      "hanzi": "穿",
+      "pinyin": "chuān",
+      "meaning": "to wear",
+      "stage": "Apprentice I",
+      "subjectId": 6433
+    },
+    {
+      "hanzi": "块",
+      "pinyin": "kuài",
+      "meaning": "lump",
+      "stage": "Apprentice I",
+      "subjectId": 8372
+    },
+    {
+      "hanzi": "谢",
+      "pinyin": "xiè",
+      "meaning": "to thank",
+      "stage": "Journeyman I",
+      "subjectId": 6143
+    },
+    {
+      "hanzi": "票",
+      "pinyin": "piào",
+      "meaning": "ticket",
+      "stage": "Journeyman I",
+      "subjectId": 6310
+    },
+    {
+      "hanzi": "旁",
+      "pinyin": "páng",
+      "meaning": "side",
+      "stage": "Journeyman I",
+      "subjectId": 5743
+    },
+    {
+      "hanzi": "饿",
+      "pinyin": "è",
+      "meaning": "to be hungry",
+      "stage": "Journeyman I",
+      "subjectId": 7297
+    },
+    {
+      "hanzi": "都",
+      "pinyin": "dōu",
+      "meaning": "all",
+      "stage": "Journeyman I",
+      "subjectId": 6408
+    },
+    {
+      "hanzi": "常",
+      "pinyin": "cháng",
+      "meaning": "often",
+      "stage": "Journeyman I",
+      "subjectId": 5893
+    },
+    {
+      "hanzi": "教",
+      "pinyin": "jiào",
+      "meaning": "to teach",
+      "stage": "Apprentice II",
+      "subjectId": 6149
+    },
+    {
+      "hanzi": "系",
+      "pinyin": "xì",
+      "meaning": "department",
+      "stage": "Journeyman II",
+      "subjectId": 8673
+    },
+    {
+      "hanzi": "南",
+      "pinyin": "nán",
+      "meaning": "south",
+      "stage": "Journeyman II",
+      "subjectId": 6313
+    },
+    {
+      "hanzi": "院",
+      "pinyin": "yuàn",
+      "meaning": "courtyard",
+      "stage": "Journeyman I",
+      "subjectId": 6171
+    },
+    {
+      "hanzi": "病",
+      "pinyin": "bìng",
+      "meaning": "illness",
+      "stage": "Journeyman II",
+      "subjectId": 6340
+    },
+    {
+      "hanzi": "客",
+      "pinyin": "kè",
+      "meaning": "guest",
+      "stage": "Apprentice II",
+      "subjectId": 5590
+    },
+    {
+      "hanzi": "钱",
+      "pinyin": "qián",
+      "meaning": "coin",
+      "stage": "Apprentice II",
+      "subjectId": 5639
+    },
+    {
+      "hanzi": "读",
+      "pinyin": "dú",
+      "meaning": "to read",
+      "stage": "Journeyman II",
+      "subjectId": 8371
+    },
+    {
+      "hanzi": "慢",
+      "pinyin": "màn",
+      "meaning": "slow",
+      "stage": "Journeyman I",
+      "subjectId": 5911
+    },
+    {
+      "hanzi": "跑",
+      "pinyin": "pǎo",
+      "meaning": "to run",
+      "stage": "Journeyman II",
+      "subjectId": 6160
+    },
+    {
+      "hanzi": "睡",
+      "pinyin": "shuì",
+      "meaning": "to sleep",
+      "stage": "Journeyman II",
+      "subjectId": 6300
+    },
+    {
+      "hanzi": "馆",
+      "pinyin": "guǎn",
+      "meaning": "building",
+      "stage": "Journeyman I",
+      "subjectId": 6239
+    },
+    {
+      "hanzi": "歌",
+      "pinyin": "gē",
+      "meaning": "song",
+      "stage": "Journeyman II",
+      "subjectId": 5723
+    },
+    {
+      "hanzi": "绍",
+      "pinyin": "shào",
+      "meaning": "to connect",
+      "stage": "Journeyman II",
+      "subjectId": 7171
+    },
+    {
+      "hanzi": "洗",
+      "pinyin": "xǐ",
+      "meaning": "to wash",
+      "stage": "Journeyman II",
+      "subjectId": 5547
+    },
+    {
+      "hanzi": "累",
+      "pinyin": "lèi",
+      "meaning": "tired",
+      "stage": "Journeyman I",
+      "subjectId": 8374
+    },
+    {
+      "hanzi": "重",
+      "pinyin": "zhòng",
+      "meaning": "heavy",
+      "stage": "Journeyman II",
+      "subjectId": 6338
+    },
+    {
+      "hanzi": "给",
+      "pinyin": "gěi",
+      "meaning": "to give",
+      "stage": "Journeyman II",
+      "subjectId": 6183
+    },
+    {
+      "hanzi": "候",
+      "pinyin": "hòu",
+      "meaning": "to wait",
+      "stage": "Journeyman I",
+      "subjectId": 6325
+    },
+    {
+      "hanzi": "影",
+      "pinyin": "yǐng",
+      "meaning": "shadow",
+      "stage": "Journeyman II",
+      "subjectId": 6347
+    },
+    {
+      "hanzi": "错",
+      "pinyin": "cuò",
+      "meaning": "mistake",
+      "stage": "Journeyman II",
+      "subjectId": 6098
+    },
+    {
+      "hanzi": "贵",
+      "pinyin": "guì",
+      "meaning": "expensive",
+      "stage": "Journeyman II",
+      "subjectId": 6374
+    },
+    {
+      "hanzi": "就",
+      "pinyin": "jiù",
+      "meaning": "at once",
+      "stage": "Journeyman II",
+      "subjectId": 5605
+    },
+    {
+      "hanzi": "而",
+      "pinyin": "ér",
+      "meaning": "and",
+      "stage": "Journeyman I",
+      "subjectId": 6088
+    },
+    {
+      "hanzi": "心",
+      "pinyin": "xīn",
+      "meaning": "heart",
+      "stage": "Journeyman I",
+      "subjectId": 5790
+    },
+    {
+      "hanzi": "力",
+      "pinyin": "lì",
+      "meaning": "power",
+      "stage": "Journeyman I",
+      "subjectId": 5917
+    },
+    {
+      "hanzi": "又",
+      "pinyin": "yòu",
+      "meaning": "again",
+      "stage": "Journeyman I",
+      "subjectId": 5844
+    },
+    {
+      "hanzi": "业",
+      "pinyin": "yè",
+      "meaning": "profession",
+      "stage": "Journeyman I",
+      "subjectId": 8453
+    },
+    {
+      "hanzi": "己",
+      "pinyin": "jǐ",
+      "meaning": "self",
+      "stage": "Apprentice II",
+      "subjectId": 5757
+    },
+    {
+      "hanzi": "入",
+      "pinyin": "rù",
+      "meaning": "to enter",
+      "stage": "Journeyman I",
+      "subjectId": 5883
+    },
+    {
+      "hanzi": "才",
+      "pinyin": "cái",
+      "meaning": "genius",
+      "stage": "Journeyman I",
+      "subjectId": 5833
+    },
+    {
+      "hanzi": "目",
+      "pinyin": "mù",
+      "meaning": "eye",
+      "stage": "Journeyman I",
+      "subjectId": 5342
+    },
+    {
+      "hanzi": "王",
+      "pinyin": "wáng",
+      "meaning": "king",
+      "stage": "Journeyman I",
+      "subjectId": 5554
+    },
+    {
+      "hanzi": "片",
+      "pinyin": "piàn",
+      "meaning": "slice",
+      "stage": "Journeyman II",
+      "subjectId": 6111
+    },
+    {
+      "hanzi": "鸟",
+      "pinyin": "niǎo",
+      "meaning": "bird",
+      "stage": "Journeyman I",
+      "subjectId": 6449
+    },
+    {
+      "hanzi": "斤",
+      "pinyin": "jīn",
+      "meaning": "Chinese pound",
+      "stage": "Apprentice II",
+      "subjectId": 6062
+    },
+    {
+      "hanzi": "于",
+      "pinyin": "yú",
+      "meaning": "in",
+      "stage": "Journeyman I",
+      "subjectId": 6330
+    },
+    {
+      "hanzi": "发",
+      "pinyin": "fā",
+      "meaning": "to send out",
+      "stage": "Journeyman I",
+      "subjectId": 8452
+    },
+    {
+      "hanzi": "如",
+      "pinyin": "rú",
+      "meaning": "to be like",
+      "stage": "Journeyman I",
+      "subjectId": 5419
+    },
+    {
+      "hanzi": "当",
+      "pinyin": "dāng",
+      "meaning": "to work as",
+      "stage": "Journeyman I",
+      "subjectId": 8449
+    },
+    {
+      "hanzi": "因",
+      "pinyin": "yīn",
+      "meaning": "cause",
+      "stage": "Apprentice II",
+      "subjectId": 5783
+    },
+    {
+      "hanzi": "只",
+      "pinyin": "zhǐ",
+      "meaning": "only",
+      "stage": "Journeyman I",
+      "subjectId": 5371
+    },
+    {
+      "hanzi": "长",
+      "pinyin": "cháng",
+      "meaning": "long",
+      "stage": "Apprentice II",
+      "subjectId": 6442
+    },
+    {
+      "hanzi": "公",
+      "pinyin": "gōng",
+      "meaning": "public",
+      "stage": "Journeyman I",
+      "subjectId": 5886
+    },
+    {
+      "hanzi": "已",
+      "pinyin": "yǐ",
+      "meaning": "already",
+      "stage": "Novice II",
+      "subjectId": 5760
+    },
+    {
+      "hanzi": "全",
+      "pinyin": "quán",
+      "meaning": "whole",
+      "stage": "Apprentice I",
+      "subjectId": 5563
+    },
+    {
+      "hanzi": "相",
+      "pinyin": "xiāng",
+      "meaning": "one another",
+      "stage": "Journeyman II",
+      "subjectId": 5507
+    },
+    {
+      "hanzi": "利",
+      "pinyin": "lì",
+      "meaning": "profit",
+      "stage": "Apprentice II",
+      "subjectId": 7702
+    },
+    {
+      "hanzi": "加",
+      "pinyin": "jiā",
+      "meaning": "to add",
+      "stage": "Apprentice II",
+      "subjectId": 5926
+    },
+    {
+      "hanzi": "声",
+      "pinyin": "shēng",
+      "meaning": "voice",
+      "stage": "Apprentice II",
+      "subjectId": 8454
+    },
+    {
+      "hanzi": "处",
+      "pinyin": "chù",
+      "meaning": "location",
+      "stage": "Journeyman I",
+      "subjectId": 8665
+    },
+    {
+      "hanzi": "务",
+      "pinyin": "wù",
+      "meaning": "tasks",
+      "stage": "Journeyman I",
+      "subjectId": 8571
+    },
+    {
+      "hanzi": "必",
+      "pinyin": "bì",
+      "meaning": "certainly",
+      "stage": "Journeyman I",
+      "subjectId": 5802
+    },
+    {
+      "hanzi": "计",
+      "pinyin": "jì",
+      "meaning": "to calculate",
+      "stage": "Journeyman I",
+      "subjectId": 5618
+    },
+    {
+      "hanzi": "许",
+      "pinyin": "xǔ",
+      "meaning": "to permit",
+      "stage": "Apprentice II",
+      "subjectId": 5777
+    },
+    {
+      "hanzi": "队",
+      "pinyin": "duì",
+      "meaning": "team",
+      "stage": "Apprentice II",
+      "subjectId": 8450
+    },
+    {
+      "hanzi": "思",
+      "pinyin": "sī",
+      "meaning": "consider",
+      "stage": "Apprentice II",
+      "subjectId": 5794
+    },
+    {
+      "hanzi": "色",
+      "pinyin": "sè",
+      "meaning": "color",
+      "stage": "Novice II",
+      "subjectId": 6368
+    },
+    {
+      "hanzi": "该",
+      "pinyin": "gāi",
+      "meaning": "should",
+      "stage": "Novice II",
+      "subjectId": 6266
+    },
+    {
+      "hanzi": "万",
+      "pinyin": "wàn",
+      "meaning": "ten thousand",
+      "stage": "Apprentice I",
+      "subjectId": 8569
+    },
+    {
+      "hanzi": "取",
+      "pinyin": "qǔ",
+      "meaning": "to take",
+      "stage": "Journeyman I",
+      "subjectId": 5906
+    },
+    {
+      "hanzi": "改",
+      "pinyin": "gǎi",
+      "meaning": "to alter",
+      "stage": "Apprentice I",
+      "subjectId": 5758
+    },
+    {
+      "hanzi": "收",
+      "pinyin": "shōu",
+      "meaning": "to receive",
+      "stage": "Novice II",
+      "subjectId": 6261
+    },
+    {
+      "hanzi": "办",
+      "pinyin": "bàn",
+      "meaning": "to manage",
+      "stage": "Journeyman I",
+      "subjectId": 8447
+    },
+    {
+      "hanzi": "近",
+      "pinyin": "jìn",
+      "meaning": "near",
+      "stage": "Journeyman I",
+      "subjectId": 6064
+    },
+    {
+      "hanzi": "广",
+      "pinyin": "guǎng",
+      "meaning": "extensive",
+      "stage": "Journeyman I",
+      "subjectId": 8445
+    },
+    {
+      "hanzi": "青",
+      "pinyin": "qīng",
+      "meaning": "green",
+      "stage": "Journeyman I",
+      "subjectId": 6274
+    },
+    {
+      "hanzi": "虽",
+      "pinyin": "suī",
+      "meaning": "although",
+      "stage": "Apprentice II",
+      "subjectId": 8444
+    },
+    {
+      "hanzi": "推",
+      "pinyin": "tuī",
+      "meaning": "to push",
+      "stage": "Journeyman I",
+      "subjectId": 5818
+    },
+    {
+      "hanzi": "节",
+      "pinyin": "jié",
+      "meaning": "festival",
+      "stage": "Journeyman I",
+      "subjectId": 8451
+    },
+    {
+      "hanzi": "讲",
+      "pinyin": "jiǎng",
+      "meaning": "to lecture",
+      "stage": "Journeyman I",
+      "subjectId": 8675
+    },
+    {
+      "hanzi": "刻",
+      "pinyin": "kè",
+      "meaning": "to carve",
+      "stage": "Apprentice II",
+      "subjectId": 6265
+    },
+    {
+      "hanzi": "乐",
+      "pinyin": "yuè",
+      "meaning": "music",
+      "stage": "Apprentice II",
+      "subjectId": 8446
+    },
+    {
+      "hanzi": "普",
+      "pinyin": "pǔ",
+      "meaning": "universal",
+      "stage": "Journeyman I",
+      "subjectId": 6382
+    },
+    {
+      "hanzi": "久",
+      "pinyin": "jiǔ",
+      "meaning": "long time",
+      "stage": "Apprentice II",
+      "subjectId": 5996
+    },
+    {
+      "hanzi": "印",
+      "pinyin": "yìn",
+      "meaning": "to print",
+      "stage": "Novice II",
+      "subjectId": 6213
+    },
+    {
+      "hanzi": "阳",
+      "pinyin": "yáng",
+      "meaning": "positive",
+      "stage": "Apprentice II",
+      "subjectId": 8573
+    },
+    {
+      "hanzi": "排",
+      "pinyin": "pái",
+      "meaning": "row",
+      "stage": "Novice II",
+      "subjectId": 6321
+    },
+    {
+      "hanzi": "酒",
+      "pinyin": "jiǔ",
+      "meaning": "alcohol",
+      "stage": "Novice II",
+      "subjectId": 6214
+    },
+    {
+      "hanzi": "闻",
+      "pinyin": "wén",
+      "meaning": "to hear",
+      "stage": "Novice II",
+      "subjectId": 6319
+    },
+    {
+      "hanzi": "讨",
+      "pinyin": "tǎo",
+      "meaning": "to discuss",
+      "stage": "Apprentice II",
+      "subjectId": 5620
+    },
+    {
+      "hanzi": "忽",
+      "pinyin": "hū",
+      "meaning": "to neglect",
+      "stage": "Apprentice II",
+      "subjectId": 6025
+    },
+    {
+      "hanzi": "自",
+      "pinyin": "zì",
+      "meaning": "self",
+      "stage": "Novice II",
+      "subjectId": 5354
+    },
+    {
+      "hanzi": "主",
+      "pinyin": "zhǔ",
+      "meaning": "master",
+      "stage": "Novice II",
+      "subjectId": 5565
+    },
+    {
+      "hanzi": "装",
+      "pinyin": "zhuāng",
+      "meaning": "attire",
+      "stage": "Novice II",
+      "subjectId": 5665
+    },
+    {
+      "hanzi": "助",
+      "pinyin": "zhù",
+      "meaning": "to assist",
+      "stage": "Novice I",
+      "subjectId": 6381
+    },
+    {
+      "hanzi": "租",
+      "pinyin": "zū",
+      "meaning": "to rent",
+      "stage": "Novice II",
+      "subjectId": 7471
+    },
+    {
+      "hanzi": "组",
+      "pinyin": "zǔ",
+      "meaning": "group",
+      "stage": "Novice II",
+      "subjectId": 6379
+    },
+    {
+      "hanzi": "座",
+      "pinyin": "zuò",
+      "meaning": "seat",
+      "stage": "Apprentice I",
+      "subjectId": 6002
+    },
+    {
+      "hanzi": "嘴",
+      "pinyin": "zuǐ",
+      "meaning": "mouth",
+      "stage": "Novice II",
+      "subjectId": 6392
+    }
+  ]
+}

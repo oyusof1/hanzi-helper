@@ -1,0 +1,9 @@
+node_modules/
+dist/
+scraper/cookies.txt
+scraper/cmn.txt
+scraper/cmn-eng.zip
+scraper/*.tmp
+scraper/opus.zip
+.DS_Store
+.vercel
